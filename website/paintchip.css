@@ -1,0 +1,21 @@
+#gameWindow{
+	background: #c3c3c3;
+	width: 770px;
+	margin-left: -11px;
+	padding: 5px 0px;
+	text-align:center;
+	border: 1px solid black;
+}
+
+#gameWindow p{
+	margin: 4px;
+	padding: 4px;
+}
+
+#gameWindow #timeDesc{
+	font-weight: bold;
+	margin: 4px;
+}
+#information{
+	display: none;
+}
